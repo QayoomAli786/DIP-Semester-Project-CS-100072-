@@ -1,0 +1,35 @@
+Handwritten Digit Recognition System
+
+Digital Image Processing – Semester Project
+
+Abstract
+
+This project focuses on the design and implementation of a Handwritten Digit Recognition System using Digital Image Processing techniques. The system analyzes grayscale images of handwritten digits and identifies the corresponding numerical value. The MNIST dataset is used for training and testing to achieve reliable recognition performance.
+
+Introduction
+
+Handwritten digit recognition is a widely used application of Digital Image Processing and Machine Learning. It plays an important role in automated systems such as document processing and pattern recognition. This project aims to develop an efficient system capable of recognizing handwritten digits with acceptable accuracy.
+
+Methodology
+
+The proposed system follows a structured methodology. Initially, the dataset is loaded and preprocessed to remove noise and normalize image size. After preprocessing, feature extraction and classification techniques are applied. Finally, the trained model is tested using unseen handwritten digit images.
+
+Algorithms Used
+
+The project uses image preprocessing techniques such as grayscale conversion and normalization. A machine learning classification algorithm is applied to train the model on handwritten digit images and predict the output digit based on learned patterns.
+
+Results and Discussion
+
+The system was tested on multiple handwritten digit images. The output results show that the model correctly identifies most of the digits. The recognition accuracy demonstrates the effectiveness of the applied image processing and classification techniques.
+
+Conclusion (Short & Efficient)
+
+This project successfully implements a handwritten digit recognition system using Digital Image Processing techniques. The results confirm that the proposed approach is effective for recognizing handwritten digits and can be further improved with advanced models.
+
+References
+
+MNIST Handwritten Digit Dataset
+
+Digital Image Processing Course Notes
+
+Python and OpenCV Documentation
